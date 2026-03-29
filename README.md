@@ -4,7 +4,7 @@ A networked implementation of the classic Mancala board game written in C, featu
 
 ## Overview
 
-This project implements the Mancala game (also known as Kalaha) with a client-server architecture. Players can compete against a CPU opponent that uses strategic decision-making algorithms to evaluate and execute optimal moves.
+This project implements the Mancala game with a client-server architecture. Players can compete against each other or a CPU opponent that uses strategic decision-making algorithms to evaluate and execute optimal moves.
 
 ## Project Structure
 
